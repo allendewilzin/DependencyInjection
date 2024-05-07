@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "iFQRYBZEJwYWTeGSKeeCgtaJQaLiRw5cFgXB9BynGsdR+gystR/6bD+gPkQJBFYAI8pQw7veWsvCwsXcp1+k8Q==",
+  "success": true,
+  "projectFilePath": "D:\\Workspace\\boolean\\TechWorkShop\\C#\\DependencyInjection\\DependencyInjection\\DependencyInjection.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\ajdewilzin\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\8.0.0\\microsoft.extensions.dependencyinjection.8.0.0.nupkg.sha512",
+    "C:\\Users\\ajdewilzin\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
